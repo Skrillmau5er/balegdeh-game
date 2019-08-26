@@ -1,9 +1,16 @@
 import React from 'react';
 import './App.css';
 import Balegdeh from './jamaica.m4a';
-import balegdehFace from './balegdeh_face.png'
+import Background from './background-music.mp3';
+import balegdehFace from './balegdeh_face.png';
 
+const background = new Audio(Background);
 const sound = new Audio(Balegdeh);
+
+sound.volume = 0.5;
+background.volume = 0.3;
+background.play();
+
 let gameSeconds = null;
 
 class App extends React.Component {
