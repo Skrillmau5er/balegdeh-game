@@ -96,7 +96,7 @@ class App extends React.Component {
           <div className="content">
             <h1 className="seconds">{this.state.secondsRemaining}</h1>
           </div>}
-        <div className="balegdeh-container" id="balegdeh" onClick={this.balegdeh} style={balegdehDivStlye}>
+        <div className="balegdeh-container" id="balegdeh" onMouseDown={this.balegdeh} style={balegdehDivStlye}>
           <img src={balegdehFace} className="balegdeh" alt="face" />
         </div>
       </div>
