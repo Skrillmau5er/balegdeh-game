@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/balegdeh-game/static/css/main.7669efd6.chunk.css",
+    "main.css": "/balegdeh-game/static/css/main.28ed01fd.chunk.css",
     "main.js": "/balegdeh-game/static/js/main.41f5a4a8.chunk.js",
     "main.js.map": "/balegdeh-game/static/js/main.41f5a4a8.chunk.js.map",
     "runtime~main.js": "/balegdeh-game/static/js/runtime~main.998edeee.js",
@@ -8,9 +8,9 @@
     "static/js/2.12a175fc.chunk.js": "/balegdeh-game/static/js/2.12a175fc.chunk.js",
     "static/js/2.12a175fc.chunk.js.map": "/balegdeh-game/static/js/2.12a175fc.chunk.js.map",
     "index.html": "/balegdeh-game/index.html",
-    "precache-manifest.34538b919c89ca9b002bfa760260cbd8.js": "/balegdeh-game/precache-manifest.34538b919c89ca9b002bfa760260cbd8.js",
+    "precache-manifest.6d09c2b445f4572f670240737375fae4.js": "/balegdeh-game/precache-manifest.6d09c2b445f4572f670240737375fae4.js",
     "service-worker.js": "/balegdeh-game/service-worker.js",
-    "static/css/main.7669efd6.chunk.css.map": "/balegdeh-game/static/css/main.7669efd6.chunk.css.map",
+    "static/css/main.28ed01fd.chunk.css.map": "/balegdeh-game/static/css/main.28ed01fd.chunk.css.map",
     "static/media/background-music.mp3": "/balegdeh-game/static/media/background-music.92d12c3e.mp3",
     "static/media/balegdeh_face.png": "/balegdeh-game/static/media/balegdeh_face.46b0e4dd.png",
     "static/media/jamaica.m4a": "/balegdeh-game/static/media/jamaica.30eacd80.m4a"
