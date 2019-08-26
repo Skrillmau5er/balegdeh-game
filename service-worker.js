@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/balegdeh-game/precache-manifest.baa2b1d0142b95a8d25bce7d4d8ab878.js"
+  "/balegdeh-game/precache-manifest.39b0141f11f6cdc92b05d04f78ed24bd.js"
 );
 
 self.addEventListener('message', (event) => {

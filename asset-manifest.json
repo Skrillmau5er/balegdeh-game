@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/balegdeh-game/static/css/main.2cce8147.chunk.css",
-    "main.js": "/balegdeh-game/static/js/main.a210f682.chunk.js",
-    "main.js.map": "/balegdeh-game/static/js/main.a210f682.chunk.js.map",
+    "main.css": "/balegdeh-game/static/css/main.7669efd6.chunk.css",
+    "main.js": "/balegdeh-game/static/js/main.0e3e8b00.chunk.js",
+    "main.js.map": "/balegdeh-game/static/js/main.0e3e8b00.chunk.js.map",
     "runtime~main.js": "/balegdeh-game/static/js/runtime~main.998edeee.js",
     "runtime~main.js.map": "/balegdeh-game/static/js/runtime~main.998edeee.js.map",
-    "static/js/2.43613bb1.chunk.js": "/balegdeh-game/static/js/2.43613bb1.chunk.js",
-    "static/js/2.43613bb1.chunk.js.map": "/balegdeh-game/static/js/2.43613bb1.chunk.js.map",
+    "static/js/2.910d2bbf.chunk.js": "/balegdeh-game/static/js/2.910d2bbf.chunk.js",
+    "static/js/2.910d2bbf.chunk.js.map": "/balegdeh-game/static/js/2.910d2bbf.chunk.js.map",
     "index.html": "/balegdeh-game/index.html",
-    "precache-manifest.baa2b1d0142b95a8d25bce7d4d8ab878.js": "/balegdeh-game/precache-manifest.baa2b1d0142b95a8d25bce7d4d8ab878.js",
+    "precache-manifest.39b0141f11f6cdc92b05d04f78ed24bd.js": "/balegdeh-game/precache-manifest.39b0141f11f6cdc92b05d04f78ed24bd.js",
     "service-worker.js": "/balegdeh-game/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/balegdeh-game/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/balegdeh-game/static/media/logo.5d5d9eef.svg"
+    "static/css/main.7669efd6.chunk.css.map": "/balegdeh-game/static/css/main.7669efd6.chunk.css.map",
+    "static/media/balegdeh_face.png": "/balegdeh-game/static/media/balegdeh_face.46b0e4dd.png",
+    "static/media/jamaica.m4a": "/balegdeh-game/static/media/jamaica.30eacd80.m4a"
   }
 }
