@@ -9,7 +9,6 @@ const sound = new Audio(Balegdeh);
 
 sound.volume = 0.5;
 background.volume = 0.3;
-background.play();
 
 let gameSeconds = null;
 
@@ -43,6 +42,7 @@ class App extends React.Component {
   }
 
   startGame = () => {
+    background.play();
     this.balegdeh();
     clearInterval(gameSeconds);
     this.setState({
