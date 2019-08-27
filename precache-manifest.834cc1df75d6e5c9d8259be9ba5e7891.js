@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8d288c9b552529b04aecba37d5fc7db",
+    "revision": "fc0edf7100a61bc72289db1bc2c11e9d",
     "url": "/balegdeh-game/index.html"
   },
   {
-    "revision": "d1350b22ac1eee77c3bc",
+    "revision": "c0909561ee4cf71b983d",
     "url": "/balegdeh-game/static/css/main.28ed01fd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/balegdeh-game/static/js/2.12a175fc.chunk.js"
   },
   {
-    "revision": "d1350b22ac1eee77c3bc",
-    "url": "/balegdeh-game/static/js/main.41f5a4a8.chunk.js"
+    "revision": "c0909561ee4cf71b983d",
+    "url": "/balegdeh-game/static/js/main.5983c807.chunk.js"
   },
   {
     "revision": "8e4ef4ffd8d304ee303f",
