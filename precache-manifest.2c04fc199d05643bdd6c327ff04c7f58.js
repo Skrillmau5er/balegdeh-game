@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f3253e36e3f852d0b0af0fea7951dbc",
+    "revision": "f8d288c9b552529b04aecba37d5fc7db",
     "url": "/balegdeh-game/index.html"
   },
   {
