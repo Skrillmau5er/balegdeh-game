@@ -24,6 +24,10 @@ class App extends React.Component {
       display: false,
     }
 
+  componentWillUnmount() {
+    background.pause();
+  }
+
   balegdeh = () => {
     if(!this.state.gameOver){
       let bottom = Math.random() * window.innerHeight;
