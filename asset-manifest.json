@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/balegdeh-game/static/css/main.28ed01fd.chunk.css",
-    "main.js": "/balegdeh-game/static/js/main.392ea0ba.chunk.js",
-    "main.js.map": "/balegdeh-game/static/js/main.392ea0ba.chunk.js.map",
+    "main.css": "/balegdeh-game/static/css/main.fd192605.chunk.css",
+    "main.js": "/balegdeh-game/static/js/main.5983c807.chunk.js",
+    "main.js.map": "/balegdeh-game/static/js/main.5983c807.chunk.js.map",
     "runtime~main.js": "/balegdeh-game/static/js/runtime~main.998edeee.js",
     "runtime~main.js.map": "/balegdeh-game/static/js/runtime~main.998edeee.js.map",
     "static/js/2.12a175fc.chunk.js": "/balegdeh-game/static/js/2.12a175fc.chunk.js",
     "static/js/2.12a175fc.chunk.js.map": "/balegdeh-game/static/js/2.12a175fc.chunk.js.map",
     "index.html": "/balegdeh-game/index.html",
-    "precache-manifest.fc543c97e2dbb1a2c68c599a3b55f406.js": "/balegdeh-game/precache-manifest.fc543c97e2dbb1a2c68c599a3b55f406.js",
+    "precache-manifest.746b426342a0caf563d725fc8e5ac5be.js": "/balegdeh-game/precache-manifest.746b426342a0caf563d725fc8e5ac5be.js",
     "service-worker.js": "/balegdeh-game/service-worker.js",
-    "static/css/main.28ed01fd.chunk.css.map": "/balegdeh-game/static/css/main.28ed01fd.chunk.css.map",
+    "static/css/main.fd192605.chunk.css.map": "/balegdeh-game/static/css/main.fd192605.chunk.css.map",
     "static/media/background-music.mp3": "/balegdeh-game/static/media/background-music.92d12c3e.mp3",
     "static/media/balegdeh_face.png": "/balegdeh-game/static/media/balegdeh_face.46b0e4dd.png",
     "static/media/jamaica.m4a": "/balegdeh-game/static/media/jamaica.30eacd80.m4a"
