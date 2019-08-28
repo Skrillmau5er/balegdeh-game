@@ -23,11 +23,7 @@ class App extends React.Component {
       secondsRemaining: 20,
       display: false,
     }
-
-  componentWillMount() {
-    document.addEventListener(visibilityChange, handleVisibilityChange, false);
-  }
-
+    
   balegdeh = () => {
     if(!this.state.gameOver){
       let bottom = Math.random() * window.innerHeight;
