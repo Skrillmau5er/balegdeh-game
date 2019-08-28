@@ -24,8 +24,8 @@ class App extends React.Component {
       display: false,
     }
 
-  componentWillUnmount() {
-    background.pause();
+  componentWillMount() {
+    document.addEventListener(visibilityChange, handleVisibilityChange, false);
   }
 
   balegdeh = () => {

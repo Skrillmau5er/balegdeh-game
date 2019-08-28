@@ -53,6 +53,7 @@ body {
 .balegdeh {
   width: 200px;
   height: auto;
+  -webkit-user-drag: none;
 }
 
 .balegdeh:hover {
